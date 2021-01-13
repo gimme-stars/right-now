@@ -1,4 +1,4 @@
-<b>stars-observer</b>  
+stars-observer  
 armansal1519  
 yasamanmajedi  
 rezanmz  
