@@ -1,5 +1,4 @@
-<b>hayyaun</b>  
-Sinaxx  
+<b>Sinaxx</b>  
 stars-observer  
 armansal1519  
 yasamanmajedi  
